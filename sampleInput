@@ -1,0 +1,130 @@
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above:
+Invalid input. Please try again.
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: p
+Enter your name:
+Yuting
+Please enter a desired class: (First or Economy)
+First
+Enter a seat preference: [W]indow, or [A]isle
+W
+Passenger seated at: Seat Given: 1A
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: G
+Enter a group name:
+SJSU
+Enter the names of people in the group separated by commas:
+Yuting1, Yuting2, Yuting3
+Enter a service class: [E]conomy or [F]irst:
+First
+Yuting1 is seated at: 1B
+Yuting2 is seated at: 1C
+Yuting3 is seated at: 1D
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: A
+Economy or First?Economy
+Economy:
+10: A,B,C,D,E,F
+11: A,B,C,D,E,F
+12: A,B,C,D,E,F
+13: A,B,C,D,E,F
+14: A,B,C,D,E,F
+15: A,B,C,D,E,F
+16: A,B,C,D,E,F
+17: A,B,C,D,E,F
+18: A,B,C,D,E,F
+19: A,B,C,D,E,F
+20: A,B,C,D,E,F
+21: A,B,C,D,E,F
+22: A,B,C,D,E,F
+23: A,B,C,D,E,F
+24: A,B,C,D,E,F
+25: A,B,C,D,E,F
+26: A,B,C,D,E,F
+27: A,B,C,D,E,F
+28: A,B,C,D,E,F
+29: A,B,C,D,E,F
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: A
+Economy or First?First
+First:
+2: A,B,C,D
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: m
+Which class' manifest would you like?
+first
+First
+1A: Yuting
+1B: Yuting1
+1C: Yuting2
+1D: Yuting3
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: p
+Enter your name:
+yutingEcom
+Please enter a desired class: (First or Economy)
+economy
+Enter a seat preference: [W]indow, [A]isle, or [C]enter
+c
+Passenger seated at: Seat Given: 10B
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: g
+Enter a group name:
+ytingEcomGroup
+Enter the names of people in the group separated by commas:
+yutingEcom1
+Enter a service class: [E]conomy or [F]irst:
+E
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: a
+Economy or First?e
+Invalid input.
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: a
+Economy or First?Economy
+Economy:
+10: A,C,D,E,F
+11: A,B,C,D,E,F
+12: A,B,C,D,E,F
+13: A,B,C,D,E,F
+14: A,B,C,D,E,F
+15: A,B,C,D,E,F
+16: A,B,C,D,E,F
+17: A,B,C,D,E,F
+18: A,B,C,D,E,F
+19: A,B,C,D,E,F
+20: A,B,C,D,E,F
+21: A,B,C,D,E,F
+22: A,B,C,D,E,F
+23: A,B,C,D,E,F
+24: A,B,C,D,E,F
+25: A,B,C,D,E,F
+26: A,B,C,D,E,F
+27: A,B,C,D,E,F
+28: A,B,C,D,E,F
+29: A,B,C,D,E,F
+
+Add [P]assenger, Add [G]roup, [C]ancel Reservations, Print Seating [A]vailability Chart,
+Print [M]anifest, [Q]uit
+Please enter a letter as shown above: q
+
+ Flight data saved to: cl34
+
+Process finished with exit code 0
